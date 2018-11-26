@@ -13,8 +13,9 @@ public class Passenger {
         this.id = id;
     }
 
-    public void createRequest(Station stationStart, Station stationFinish, Date dateOfTrip){
+    public Request createRequest(Station stationStart, Station stationFinish, Date dateOfTrip){
         request = new Request(stationStart, stationFinish, dateOfTrip);
+        return request;
     }
 
     public void seeTrains(){

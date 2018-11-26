@@ -1,4 +1,4 @@
-package com.alpha.Comparator;
+package com.alpha.AlphaPractice_11_11_2018.Comparator;
 
 public final class User {
     private String username;
