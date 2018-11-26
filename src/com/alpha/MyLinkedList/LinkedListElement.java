@@ -1,6 +1,6 @@
 package com.alpha.MyLinkedList;
 
-// Моя реализация двусвязного списка
+// Реализация двусвязного списка
 // Не закончена
 public class LinkedListElement<T> {
     T data;

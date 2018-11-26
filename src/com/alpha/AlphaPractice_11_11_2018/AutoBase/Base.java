@@ -1,4 +1,4 @@
-package com.alpha.AutoBase;
+package com.alpha.AlphaPractice_11_11_2018.AutoBase;
 
 /*
 №8. Задача на взаимодействие между классами. Разработать систему «Автобаза».

@@ -1,4 +1,4 @@
-package com.alpha.RailWay;
+package com.alpha.AlphaPractice_11_11_2018.RailWay;
 
 import java.util.Date;
 import java.util.List;
