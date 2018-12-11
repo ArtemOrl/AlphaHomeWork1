@@ -1,7 +1,4 @@
-package AlphaPractice_09_12_2018;
-
-import java.util.ArrayList;
-import java.util.Objects;
+package com.alpha.AlphaPractice_09_12_2018;
 
 public class LambdaThis {
 //    private String name = "Alex";

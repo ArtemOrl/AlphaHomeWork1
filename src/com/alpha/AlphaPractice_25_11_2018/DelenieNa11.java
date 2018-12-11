@@ -42,4 +42,14 @@ public class DelenieNa11 {
         }
         return false;
     }
+//    int x=0b110010; int y=0b1010; int z; z = x %y;
+//    public static int sumSquareDigits(int n) {
+//        if (n < 10) return (int) Math.pow(n, 2);
+//        return (int)((Math.pow((n % 10), 2)) + sumSquareDigits(n/10));
+//    }
+//
+//    public static int sumSquareDigits(int n) {
+//        if (n < 10) return n * n;
+//        return ((n % 10) * (n % 10)) + sumSquareDigits(n/10);
+//    }
 }

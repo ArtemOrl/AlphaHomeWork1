@@ -1,10 +1,12 @@
-package AlphaPractice_01_12_2018;
+package com.alpha.AlphaPractice_01_12_2018;
 
 import java.util.Iterator;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
+
 public class ExecutorServi{}
+
 class ConcurrentHashMapDemo {
     public static final ConcurrentHashMap<Integer, String> conHashMap = new ConcurrentHashMap<>();
 

@@ -1,4 +1,4 @@
-package AlphaPractice_09_12_2018;
+package com.alpha.AlphaPractice_09_12_2018;
 
 @FunctionalInterface
 public interface StringProducer {

@@ -1,4 +1,4 @@
-package AlphaPractice_01_12_2018;
+package com.alpha.AlphaPractice_01_12_2018;
 
 import java.util.ArrayList;
 import java.util.Date;
@@ -62,6 +62,7 @@ class Request_0 {
     }
 
 }
+
 class Obrabotka_0 implements Runnable{
 
     public List<Request_0> goodListThread = new ArrayList<>();

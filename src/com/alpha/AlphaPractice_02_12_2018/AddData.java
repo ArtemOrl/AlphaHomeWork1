@@ -1,4 +1,4 @@
-package AlphaPractice_02_12_2018;
+package com.alpha.AlphaPractice_02_12_2018;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;

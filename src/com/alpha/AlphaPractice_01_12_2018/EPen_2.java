@@ -1,4 +1,4 @@
-package AlphaPractice_01_12_2018;
+package com.alpha.AlphaPractice_01_12_2018;
 
 
 public class EPen_2 implements Runnable {

@@ -1,4 +1,4 @@
-package AlphaPractice_01_12_2018;
+package com.alpha.AlphaPractice_01_12_2018;
 
 import java.util.Arrays;
 
